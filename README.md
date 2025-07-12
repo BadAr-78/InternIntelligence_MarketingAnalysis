@@ -59,15 +59,10 @@ Build a predictive analytics model to forecast whether a customer will respond t
 
 ## 🧰 Tools Used
 - Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook / Kaggel
 - GitHub for project management
 
----
 
-## ✅ Next Steps
-- Hyperparameter tuning (`GridSearchCV`)
-- Balance data using `SMOTE` if needed
-- Deploy model as part of marketing dashboard
 
 ---
 
